@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elaalouch" alt="elaalouch" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **react,...**
 
 - 📫 How to reach me **elaalouch.dev@gmail.com**
 
